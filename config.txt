@@ -1,0 +1,6 @@
+token="NTAzNjgxNzQyMzc3MzIwNDg2.Dq9oUw.5biKXfc3UBgPRr1BV_-m_cMf_rs"
+//owner=ايدي صاحب البوت
+//prefix=بريفكس البوت
+/game=البلاينج
+//stayinchannel=true اذا تبيه يبقى في الشانل 
+//songinstatus=false يطلع لك في البلاينج انه يشغل اغنيه ويطلع اسم الاغنيه
