@@ -1,4 +1,4 @@
-token="NTAzNjgxNzQyMzc3MzIwNDg2.Dq9oUw.5biKXfc3UBgPRr1BV_-m_cMf_rs"
+token=""
 //owner=ايدي صاحب البوت
 //prefix=بريفكس البوت
 /game=البلاينج
